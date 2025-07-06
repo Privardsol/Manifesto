@@ -1,0 +1,8 @@
+For those who are interested in contributing to Privard, and earning some shekels in the way. We will be having a bug bounty, Rewards tier below:
+
+Critical	Full remote code execution, data exfiltration, or takeover of admin/user accounts	$500 – $1000 USDT
+High	Major security flaws like privilege escalation, authentication bypass, or unauthorized access to sensitive data	$250 – $400 USDT
+Medium	XSS, CSRF, insecure storage, rate limiting bypass, or access to non-sensitive data	$75 – $200 USDT
+Low	Minor bugs with low impact or unlikely attack vectors	$10 – $50 USDT
+
+All payments are made in USDT or Solana.
